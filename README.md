@@ -2,6 +2,12 @@
 
 This is a complete website template based on the ParentPay website design. The template includes both a simple HTML/CSS/JS version and a modern React version.
 
+
+## Demo
+Here's a quick look at the web application:
+
+![Demo](public/main.png)
+
 ## Features
 
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
